@@ -1,0 +1,23 @@
+{
+  "name": "worker-threads-sample",
+  "version": "1.0.0",
+  "description": "Node js worker threads module sample implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node non-blocking/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kannndev/node-worker-threads.git"
+  },
+  "author": "Kannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kannndev/node-worker-threads/issues"
+  },
+  "homepage": "https://github.com/Kannndev/node-worker-threads#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
